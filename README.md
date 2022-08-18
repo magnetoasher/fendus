@@ -1,8 +1,9 @@
-# Fendus Paystack
+# Fendus
 
-The front-end of Fendus Paystack, a full-stack e-commerce web app, built with React, Chakra UI, Node.js and Express. Payment integration with [Paystack](https://paystack.com/) payment gateway, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-[Live site](https://fendus-paystack.herokuapp.com/)
+The front-end of Fendus, a full-stack e-commerce web app, built with React,
+Chakra UI, Node.js and Express. Payment integration with
+[Paystack](https://paystack.com/) payment gateway, bootstrapped with
+[Create React App](https://github.com/facebook/create-react-app).
 
 Payment integration is in test mode, feel free to make payment.
 
